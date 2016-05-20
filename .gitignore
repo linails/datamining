@@ -1,0 +1,7 @@
+build/*
+!build/bin/*
+!build/bin/dataming-core
+
+tags
+*.o
+*.out
